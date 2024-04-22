@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Wang Yuhao"
-  avatar           : "/assets/images/IMG_0412.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/IMG_8082.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Student working on AI."
   location         : "Suzhou/Nanjing"
   email            : 0bestyuhao0@gmail.com
