@@ -20,6 +20,7 @@ title                    : "Yuhao's Personal Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Wang Yuhao"
+avatar                   : "/assets/images/IMG_0415.jpeg"
 description              : "Yuhao's Personal Site"
 url                      : Wangyuhao06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
