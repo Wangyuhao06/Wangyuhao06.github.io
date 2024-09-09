@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Wang Yuhao"
-  avatar           : "/assets/images/IMG_0415.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : ""/assets/images/IMG_0415.jpeg"" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Student working on AI."
   location         : "Suzhou/Nanjing"
   email            : 0bestyuhao0@gmail.com
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Wangyuhao06.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
