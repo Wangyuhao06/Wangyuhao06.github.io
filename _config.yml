@@ -20,7 +20,6 @@ title                    : "Yuhao's Personal Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Wang Yuhao"
-avatar                   : "/assets/images/IMG_0415.jpeg"
 description              : "Yuhao's Personal Site"
 url                      : https://wangyuhao06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Wang Yuhao"
-  avatar           : ""/assets/IMG_8082.jpeg"" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/IMG_8082.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Student working on AI."
   location         : "Suzhou/Nanjing"
   email            : 0bestyuhao0@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "0bestyuhao0@gmail.com"
+      url: "0bestyuhao0@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
