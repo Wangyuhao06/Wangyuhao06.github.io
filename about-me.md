@@ -6,4 +6,4 @@ permalink: /about/
 
 Here is my resume, you can view it here.
 
-[CV](assets/files/resume.pdf)
+[CV](assets/files/resume_yuhao.pdf)
